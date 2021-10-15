@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: 10000;
+    color: #000000;
+}
+h2{
+    font-family: 'Saira', sans-serif;
+    color: rgb(1, 68, 1);
+    font-size: 30px;
+}
+h3{
+    font-family: 'Saira', sans-serif;
+    color: brown;
+}
+/*h3{
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: 200;
+    color: #000000;
+}*/
