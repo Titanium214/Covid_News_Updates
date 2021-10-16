@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Covid_News_Updates/static/css/main.ec507b81.chunk.css",
+    "main.js": "/Covid_News_Updates/static/js/main.396d4674.chunk.js",
+    "main.js.map": "/Covid_News_Updates/static/js/main.396d4674.chunk.js.map",
+    "runtime-main.js": "/Covid_News_Updates/static/js/runtime-main.36c01232.js",
+    "runtime-main.js.map": "/Covid_News_Updates/static/js/runtime-main.36c01232.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Covid_News_Updates/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.82511183.chunk.js": "/Covid_News_Updates/static/js/2.82511183.chunk.js",
+    "static/js/2.82511183.chunk.js.map": "/Covid_News_Updates/static/js/2.82511183.chunk.js.map",
+    "static/js/3.80cae23e.chunk.js": "/Covid_News_Updates/static/js/3.80cae23e.chunk.js",
+    "static/js/3.80cae23e.chunk.js.map": "/Covid_News_Updates/static/js/3.80cae23e.chunk.js.map",
+    "index.html": "/Covid_News_Updates/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Covid_News_Updates/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.ec507b81.chunk.css.map": "/Covid_News_Updates/static/css/main.ec507b81.chunk.css.map",
+    "static/js/2.82511183.chunk.js.LICENSE.txt": "/Covid_News_Updates/static/js/2.82511183.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36c01232.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.82511183.chunk.js",
+    "static/css/main.ec507b81.chunk.css",
+    "static/js/main.396d4674.chunk.js"
+  ]
+}
